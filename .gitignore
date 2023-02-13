@@ -1,0 +1,7 @@
+*.java
+*.net
+*.py
+
+
+!first.java
+
